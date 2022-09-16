@@ -1,0 +1,1 @@
+console.log("git init") // star git on the repository
