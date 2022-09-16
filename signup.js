@@ -1,6 +1,6 @@
 const signup = (name) => {
 
-  console.log(name)
+  console.log(name,pass)
 }
 
-signup("juanelias")
+signup("juanelias","easypass")
